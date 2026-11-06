@@ -168,10 +168,19 @@
 <!-- Animated Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🐍 Contribution Graph Snake
+## 📈 Contribution & Profile Overview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdwAiTh-dev-123/AdwAiTh-dev-123/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdwAiTh-dev-123&theme=tokyonight" alt="Profile Activity Details" />
+</div>
+
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## ⚡ Coding Vibe & Flow
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="460" alt="Developer Coding Animation" style="border-radius: 12px;" />
 </div>
 
 <!-- Animated Rainbow Divider -->
