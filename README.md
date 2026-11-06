@@ -48,7 +48,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
