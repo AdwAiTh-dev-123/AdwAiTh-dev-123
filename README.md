@@ -1,5 +1,3 @@
-what about this:
-
 # 💫 About Me:
 I am a beginner software engineer currently learning MERN (MongoDB, React, Nodejs & Express) stack<br>I love building cool projects. I am working on my first project that is Ecommerce project. I also learned a bit about java, c,c++ and python eventhough i am not pro.
 
