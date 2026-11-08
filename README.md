@@ -118,10 +118,10 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.shion.dev/api?username=AdwAiTh-dev-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E" alt="Adwaith's GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=AdwAiTh-dev-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E" alt="GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com/?user=AdwAiTh-dev-123&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="Adwaith's GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=AdwAiTh-dev-123&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -140,10 +140,10 @@
 <!-- Animated Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🐍 Contribution Graph Snake
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdwAiTh-dev-123/AdwAiTh-dev-123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/AdwAiTh-dev-123/AdwAiTh-dev-123/output/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution Snake Animation" width="100%" />
 </div>
 
 <!-- Animated Rainbow Divider -->
