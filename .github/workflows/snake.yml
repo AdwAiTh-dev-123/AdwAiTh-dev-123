@@ -15,39 +15,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Generate Snake with Visible Grid Squares & Private Contributions
+      # Step 1: Original GitHub Dark Palette with visible squares & private commits
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
-      # Step 2: Add Solid Black Canvas Background & Speed Up (2x)
-      - name: Customize snake (black background + 2x speed)
+      # Step 2: Keep 2x faster speed
+      - name: Speed up snake animation
         run: |
           sudo chmod -R a+rw dist
           python3 -c "
           import re, glob
           SPEED_FACTOR = 0.5
-
           for f in glob.glob('dist/*.svg'):
               with open(f, 'r+') as fp:
                   content = fp.read()
-
-                  # 1. Halve animation time (2x faster snake)
                   content = re.sub(r'(\d+)ms', lambda m: f'{int(int(m.group(1)) * SPEED_FACTOR)}ms', content)
-
-                  # 2. Add solid black background rectangle behind the grid
-                  m = re.search(r'viewBox=\"([^\"]+)\"', content)
-                  if m:
-                      x, y, w, h = m.group(1).split()
-                      bg_rect = f'<rect x=\"{x}\" y=\"{y}\" width=\"{w}\" height=\"{h}\" fill=\"#000000\" rx=\"8\"/>'
-                      content = re.sub(r'(<svg[^>]*>)', r'\1' + bg_rect, content)
-
                   fp.seek(0)
                   fp.write(content)
                   fp.truncate()
