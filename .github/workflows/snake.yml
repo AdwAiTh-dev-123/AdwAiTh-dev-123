@@ -2,7 +2,6 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Run automatically every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -13,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Generate Snake with Black Background (#000000 for empty squares)
+      # Step 1: Generate Snake with Black Background
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3
         with:
@@ -27,9 +26,9 @@ jobs:
       # Step 2: Increase snake speed (2x faster)
       - name: Speed up snake animation
         run: |
+          sudo chmod -R a+rw dist
           python3 -c "
           import re, glob
-          # Multiplier: 0.5 = 2x speed (change to 0.33 for 3x speed)
           SPEED_FACTOR = 0.5
           for f in glob.glob('dist/*.svg'):
               with open(f, 'r+') as fp:
