@@ -4,7 +4,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/AdwAiTh-dev-123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+MERN+Developer+%F0%9F%92%BB;Crafting+Modern+Web+%26+E-Commerce+Apps+%E2%9A%A1;IoT+%26+Hardware+Tinkerer+%F0%9F%A4%96;Lifelong+Learner+%26+Code+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+MERN+Developer+%F0%9F%92%BB;Crafting+Modern+Web+Apps+%E2%9A%A1;IoT+%26+Hardware+Tinkerer+%F0%9F%A4%96;Lifelong+Learner+%26+Code+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -39,7 +39,6 @@
         I'm a passionate <b>Software Engineer &amp; MERN Stack Developer</b> dedicated to building clean, high-performance web applications and scalable digital solutions. I enjoy taking ideas from concept to production-ready software.
       </p>
       <ul>
-        <li>🚀 <b>Currently Building:</b> <a href="https://github.com/AdwAiTh-dev-123/ALTIER-ECOMM"><b>ALTIER-ECOMM</b></a> — a full-featured e-commerce platform with reactive UI, JWT authentication, and robust backend APIs.</li>
         <li>🌱 <b>Sharpening Skills In:</b> Advanced React patterns, backend system architecture, microservices, and Docker containerization.</li>
         <li>💡 <b>CS Foundations:</b> Confident in data structures &amp; problem solving with <b>JavaScript, C, C++, Java, and Python</b>.</li>
         <li>🔌 <b>Hardware &amp; IoT:</b> Tinkering with <b>Raspberry Pi, Arduino</b>, and Home Automation integrations.</li>
@@ -112,33 +111,6 @@
 <!-- Animated Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/AdwAiTh-dev-123/ALTIER-ECOMM">ALTIER-ECOMM</a></h3>
-      <p>
-        A complete modern full-stack E-Commerce web application built with the <b>MERN Stack</b>. Includes catalog filtering, persistent shopping cart, user authentication (JWT), order management, and secure checkout flow.
-      </p>
-      <p>
-        <b>Tech Stack:</b> MongoDB, Express.js, React, Node.js, JWT, REST API
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Smart IoT &amp; Hardware Automation</h3>
-      <p>
-        Hands-on embedded systems and automation experiments linking microcontrollers with web interfaces and smart home platforms for real-time sensor monitoring and device control.
-      </p>
-      <p>
-        <b>Tech Stack:</b> Raspberry Pi, Arduino, Home Assistant, Python, C/C++
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- Animated Rainbow Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📊 GitHub Analytics
 
