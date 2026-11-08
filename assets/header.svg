@@ -51,10 +51,6 @@
     <rect x="0" y="0" width="150" height="28" class="tag-bg" />
     <text x="75" y="19" text-anchor="middle" class="tag">⚡ React &amp; Node.js</text>
   </g>
-  <g transform="translate(340, 155)">
-    <rect x="0" y="0" width="170" height="28" class="tag-bg" />
-    <text x="85" y="19" text-anchor="middle" class="tag">🛒 ALTIER-ECOMM</text>
-  </g>
   <g transform="translate(530, 155)">
     <rect x="0" y="0" width="150" height="28" class="tag-bg" />
     <text x="75" y="19" text-anchor="middle" class="tag">🤖 IoT &amp; Hardware</text>
