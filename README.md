@@ -1,6 +1,6 @@
 <div align="center">
   <!-- In-Repo Animated Header Banner -->
-  <img src="./assets/header.svg" width="100%" alt="Hey there, I'm Adwaith!" />
+  <img src="./assets/github-header-banner.png" width="100%" alt="Hey there, I'm Adwaith!" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/AdwAiTh-dev-123">
